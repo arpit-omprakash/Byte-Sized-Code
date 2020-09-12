@@ -8,7 +8,7 @@ Things to do:
 - [ ] Strings, Lists, and Dictionaries
 - [x] ~~Working with Files and Directories~~
 - [x] ~~Working with CSV Files~~
-- [ ] Regular Expressions
+- [x] ~~Regular Expressions~~
 
 ## Processing  
 
