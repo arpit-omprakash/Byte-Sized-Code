@@ -13,7 +13,6 @@ Things to do:
 ## Processing  
 
 **Getting started with Processing**  
-- [ ] Introduction
 - [ ] Hello World
 - [ ] Drawing Shapes
 - [ ] Inputs
