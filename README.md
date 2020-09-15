@@ -15,7 +15,10 @@ Things to do:
 ## Processing  
 
 **Getting started with Processing**  
-- [ ] Hello World
+- Hello World
+  - [x] Print Hello World
+  - [x] Point
+  - [x] Track Mouse
 - [ ] Drawing Shapes
 - [ ] Inputs
 
