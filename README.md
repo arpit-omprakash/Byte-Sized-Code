@@ -16,9 +16,9 @@ Things to do:
 
 **Getting started with Processing**  
 - Hello World
-  - [x] Print Hello World
-  - [x] Point
-  - [x] Track Mouse
+  - [x] ~~Print Hello World~~
+  - [x] ~~Point~~
+  - [x] ~~Track Mouse~~
 - [ ] Drawing Shapes
 - [ ] Inputs
 
