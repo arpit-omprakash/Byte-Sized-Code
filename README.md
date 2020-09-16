@@ -1,7 +1,11 @@
 # Byte-Sized-Code
-The official repository for Byte-Sized-Code
+A collection of resources for learning Python from the ground up.
 
 ## Python notebooks
+Feel free to use the notebooks as a cheat-sheet or to learn more about python.  
+Feel free to open an issue (or even better, send a Pull Request) for any changes.  
+Have a look [here](https://github.com/aceking007/Byte-Sized-Code/blob/master/CONTRIBUTING.md) before contributing, to make your pull request more likely to be merged.
+
 Things to do:  
 - [x] ~~Basic Python Syntax~~
 - [x] ~~Loops and Recursion~~
@@ -12,27 +16,3 @@ Things to do:
 - [ ] Numpy cheat sheet
 - [ ] Pandas cheat sheet
 
-## Processing  
-
-**Getting started with Processing**  
-- Hello World
-  - [x] ~~Print Hello World~~
-  - [x] ~~Point~~
-  - [x] ~~Track Mouse~~
-- [ ] Drawing Shapes
-- [ ] Inputs
-
-**Object Oriented Programming**  
-- [ ] Encapsulation
-- [ ] Abstraction
-- [ ] Inheritance
-- [ ] Polymorphism
-
-**All about Physics Engines**  
-Creating a simple Physics engine in Processing  
-- [ ] Moving Bodies
-- [ ] Gravity & Other Forces
-- [ ] Rotation
-- [ ] Collision
-- [ ] Particles
-- [ ] Particle Systems
