@@ -22,3 +22,17 @@ Things to do:
 - [ ] Numpy cheat sheet
 - [ ] Pandas cheat sheet
 
+## Projects
+
+Feel free to add some beginner-friendly projects to the projects directory of the repository.  
+Here is a checklist to get things started:
+
+## Checklist
+Projects to add:
+- [ ] Joke Telling Program
+- [ ] Caesar Cipher
+- [ ] Mad Libs Generator
+- [ ] Dice Rolling Simulator
+- [ ] Guess the Number
+- [ ] Hangman
+
