@@ -36,8 +36,8 @@ Here is a checklist to get things started:
 
 ## Checklist
 Projects to add:
+- [x] ~~Caesar Cipher~~
 - [ ] Joke Telling Program
-- [ ] Caesar Cipher
 - [ ] Mad Libs Generator
 - [ ] Dice Rolling Simulator
 - [ ] Guess the Number
